@@ -1,0 +1,8 @@
+com/example/Main$1.class
+com/example/Main$2.class
+com/example/MacOSMonitor.class
+com/example/MonitorInterface.class
+com/example/LinuxMonitor.class
+com/example/Main.class
+com/example/OSDetector.class
+com/example/WindowsMonitor.class
